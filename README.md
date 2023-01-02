@@ -6,6 +6,6 @@ Design by: [Reynaldi Syahrizal](https://www.figma.com/community/file/10361427269
 
 ## Screenshot
 <p align="center">
-  <img src="ss/home1.jpg" width="270">
-  <img src="ss/home2.jpg" width="270">
+  <img src="ss/home1.png" width="270">
+  <img src="ss/home2.png" width="270">
 </p>
